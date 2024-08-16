@@ -37,7 +37,7 @@ Student-ready starter code(opens in a new tab) - Download and unzip this file.
 - Screenshots which document all project steps are stored in ```/screenshots```
 
 - Website can be accessed via the following links:
-    - CloudFront domain: https://d3km51f2f1jclg.cloudfront.net
+    - CloudFront domain: https://d3jg3u1dn25cy5.cloudfront.net
     - Website-endpoint: http://my-698555651838-bucket.s3-website-us-east-1.amazonaws.com
     - S3 object URL: http://my-698555651838-bucket.s3.amazonaws.com/index.html
 
